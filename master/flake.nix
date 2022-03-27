@@ -11,6 +11,7 @@
   inputs.src-onedrive-master.ref   = "refs/heads/master";
   inputs.src-onedrive-master.owner = "ThomasTJdev";
   inputs.src-onedrive-master.repo  = "nim_onedrive";
+  inputs.src-onedrive-master.dir   = "";
   inputs.src-onedrive-master.type  = "github";
   
   inputs."packedjson".owner = "nim-nix-pkgs";
